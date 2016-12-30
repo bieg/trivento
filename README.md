@@ -1,21 +1,31 @@
-# trivento
-opdracht
+# Tri
 
-Following the brief below I only was bale to do the first part.
-Reason for this is 3 ways: The days before the end of the year are always exteremely busy due to peple switching insurrances.
-It is basicvally all hands on deck. Secondly is of course due to the festivities. When picking this task up I could not get the given repo to work.
-After trying twice I turned it around and decided to use Angular2-cli. As mentioned earlier I am not proficient in Ang2. This therefore took me quite a while.
-So as a steep learning and as a challenge I used ang2. 
+This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
-As you will see I just could not figure out how to display only one card instead of all when cliked.
+## Development server
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-The app is responsive as it hase been set up with Bootstrap.
+## Code scaffolding
 
-It was a very nice and interesting assignement but certain things are just rather too technical to me.
-Of course I would very much like to continiue bridging this gap.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
 
+## Build
 
-cheers
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
+## Running unit tests
 
-Wouter
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Before running the tests make sure you are serving the app via `ng serve`.
+
+## Deploying to Github Pages
+
+Run `ng github-pages:deploy` to deploy to Github Pages.
+
+## Further help
+
+To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
